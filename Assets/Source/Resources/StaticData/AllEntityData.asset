@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61af01eb76acb2489d15b25d5f9124f, type: 3}
+  m_Name: AllEntityData
+  m_EditorClassIdentifier: 
+  EntitiesData:
+  - EntityType: 1
+    Prefab: {fileID: 4833141781090056766, guid: 59d7dffac94023e429f2109e26a65ed5, type: 3}
+    Speed: 0
+    SpawnTime: 0
+    DeathChecker:
+      _killers: 020000000400000003000000
+  - EntityType: 2
+    Prefab: {fileID: 9020445789103096150, guid: 0753a8ca90de95d4f83a9c915baaf143, type: 3}
+    Speed: 1.5
+    SpawnTime: 5
+    DeathChecker:
+      _killers: 0500000006000000
+  - EntityType: 3
+    Prefab: {fileID: 5611455799529628239, guid: 6e57e2a2dc80a6d41b5469f87a2bcb42, type: 3}
+    Speed: 1
+    SpawnTime: 5
+    DeathChecker:
+      _killers: 0500000006000000
+  - EntityType: 4
+    Prefab: {fileID: 192664436298948201, guid: e74863d804e8e7f449a24c2187013290, type: 3}
+    Speed: 2
+    SpawnTime: 0
+    DeathChecker:
+      _killers: 0500000006000000
+  - EntityType: 5
+    Prefab: {fileID: 440175881574401776, guid: e15938f5a3b9a3340bd091f89b692cbe, type: 3}
+    Speed: 10
+    SpawnTime: 0
+    DeathChecker:
+      _killers: 020000000300000004000000
+  - EntityType: 6
+    Prefab: {fileID: 6210945546298421060, guid: c17a30284e0cb1148b14edb077cf53dc, type: 3}
+    Speed: 0
+    SpawnTime: 0
+    DeathChecker:
+      _killers: 
